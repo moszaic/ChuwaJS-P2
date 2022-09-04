@@ -1,0 +1,83 @@
+.header {
+  background: #38534d;
+  padding: 30px;
+  font-size: 20px;
+  color: beige;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: right;
+}
+
+.headers {
+  background: #38534d;
+  width: 100%;
+  font-size: 16px;
+  color: beige;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: right;
+  padding-top: 20px;
+  padding-right: 50px;
+  height: 75px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 800px) {
+  .headers {
+    /*background: #3eeac5;*/
+    display: inline-block;
+    padding-top: 5px;
+  }
+  .logbutton {
+    padding: 5px;
+    transform: translate(-15px, -30px);
+    float: right;
+  }
+  .carticon {
+    position: absolute;
+    right: 15px;
+    top: -5px;
+    z-index: 777;
+  }
+  .emaildisplay,
+  .cart {
+    right: 140px;
+    top: 40px;
+    position: absolute;
+    transform: translate(40px, 0px);
+  }
+  .cart {
+    right: 60px;
+    top: 40px;
+  }
+}
+
+.homeb {
+  float: left;
+  margin-left: 7%;
+  margin-top: 8px;
+  font-weight: bolder;
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.logbutton {
+  padding: 40px;
+  top: 40%;
+}
+
+.footer {
+  background: #38534d;
+  bottom: 0px;
+  position: absolute;
+  /*padding: 20px;*/
+  width: 100%;
+  height: 50px;
+  font-size: 30px;
+  color: beige;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.homeb:hover,
+.logbutton:hover {
+  color: rgb(240, 228, 213);
+  cursor: pointer;
+}

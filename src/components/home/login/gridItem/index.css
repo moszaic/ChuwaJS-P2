@@ -1,0 +1,52 @@
+.gridImage {
+  position: relative;
+  width: 240px;
+  padding: 5px;
+  height: 280px;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.gridItemOG {
+  width: 300px;
+  display: inline-block;
+  padding: 20px;
+  position: relative;
+  background-color: antiquewhite;
+}
+
+.gridItem {
+  width: 250px;
+  display: inline-block;
+  padding: 10px;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+}
+
+.gridBorder {
+  width: 300px;
+  display: inline-block;
+  padding: 10px;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgba(170, 146, 52, 0.4);
+  border-radius: 5px;
+}
+
+.gridImage:hover {
+  cursor: pointer;
+}
+
+.itemData {
+  color: rgb(82, 72, 0);
+  margin-left: 5px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 7px;
+  margin-bottom: -7px;
+  width: 240px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

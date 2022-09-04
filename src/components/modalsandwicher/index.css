@@ -1,0 +1,35 @@
+/*.modalopen {
+  display: block;
+  z-index: 1;
+  background-color: rgba(194, 211, 226);
+  position: fixed;
+  padding-top: 100px;
+  width: 100%;
+  height: 100%;
+}
+
+.modalclosed {
+  display: none;
+}
+
+.modalcontent {
+  background-color: aqua;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 70%;
+}
+
+.modalopenII {
+  display: block;
+  z-index: 10;
+  background-color: rgba(158, 94, 94, 0.4);
+  background-color: rgb(194, 211, 226);
+  position: fixed;
+  padding-top: 100px;
+  margin: auto;
+  left: 200px;
+  width: 100%;
+  height: 100%;
+}
+*/

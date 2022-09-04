@@ -1,0 +1,27 @@
+.pagebutton {
+  font-size: 14px;
+  width: 50px;
+  height: 50px;
+  color: seagreen;
+  border: 1px solid seagreen;
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.pagebutton:hover {
+  cursor: pointer;
+  background-color: seagreen;
+  color: white;
+}
+
+.buttonselect {
+  font-size: 14px;
+  width: 50px;
+  height: 50px;
+  color: white;
+  border: 1px solid seagreen;
+  background-color: seagreen;
+  border-radius: 10px;
+  margin: 10px;
+}

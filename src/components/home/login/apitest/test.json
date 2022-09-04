@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "bob",
+      "amount": "20"
+    },
+    {
+      "name": "yeua",
+      "amount": "35"
+    }
+  ]
+}

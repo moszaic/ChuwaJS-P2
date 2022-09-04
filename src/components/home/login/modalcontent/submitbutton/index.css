@@ -1,0 +1,107 @@
+.purplebutton {
+  width: 380px;
+  height: 50px;
+  background-color: rgb(94, 30, 197);
+  color: white;
+  font-family: fantasy;
+  font-style: oblique;
+  border: 0;
+  border-radius: 3px;
+  display: block;
+  margin: auto;
+}
+.purplebuttonleft {
+  width: 100px;
+  height: 30px;
+  background-color: rgb(94, 30, 197);
+  color: white;
+  font-family: fantasy;
+  vertical-align: bottom;
+  font-style: oblique;
+  border: 0;
+  border-radius: 3px;
+}
+
+/*.purplebuttonleft :hover,*/
+.purplebutton:hover,
+.griditem:hover {
+  cursor: pointer;
+  background-color: rgb(164, 47, 232);
+}
+
+.griditem2:hover {
+  cursor: pointer;
+  /*background-color: rgb(138, 138, 138);*/
+  background-color: rgba(3, 97, 69, 0.6);
+  color: white;
+}
+
+.nobutton {
+  display: none;
+}
+
+.griditem {
+  width: 100px;
+  height: 30px;
+  background-color: rgb(94, 30, 197);
+  color: white;
+  font-family: fantasy;
+  font-size: 11px;
+  font-style: oblique;
+  border: 0;
+  border-radius: 3px;
+  vertical-align: bottom;
+  /*display: inline-block;*/
+}
+
+.griditem2 {
+  display: inline-block;
+  color: rgba(3, 97, 69, 0.9);
+  width: 100px;
+  height: 30px;
+  background-color: rgb(255, 255, 255);
+  font-size: 11px;
+  border: 1px solid;
+  border-color: rgb(177, 195, 212);
+  border-radius: 3px;
+  vertical-align: bottom;
+}
+
+.minus {
+  font-size: 20px;
+  float: left;
+  transform: translate(0, -17px);
+}
+.plus {
+  font-size: 20px;
+  float: right;
+  transform: translate(0, -17px);
+}
+
+.minus:hover,
+.plus:hover {
+  font-weight: bolder;
+}
+
+.deletebutton {
+  border: 1.5px solid rgb(208, 133, 58);
+  display: inline-block;
+  vertical-align: top;
+  /*color: rgb(175, 91, 7);*/
+  color: rgb(175, 59, 6);
+  /*width: 97px;*/
+  margin-left: 15px;
+  margin-bottom: 15px;
+  z-index: 2;
+  font-weight: bold;
+  width: 30px;
+  height: 30px;
+  border-radius: 1px;
+  background-color: white;
+}
+
+.deletebutton:hover {
+  background-color: rgb(208, 58, 58);
+  color: white;
+  cursor: pointer;
+}

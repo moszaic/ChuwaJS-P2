@@ -1,0 +1,222 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "0": {
+        "name": "2",
+        "desc": "",
+        "category": "",
+        "price": 0,
+        "quantity": 0,
+        "img": ""
+      },
+      "1": {
+        "name": "obj number 1",
+        "desc": "obj 1",
+        "category": "obj 1",
+        "price": 987,
+        "quantity": 654,
+        "img": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/onepiecetcb_1056_014.png"
+      },
+      "2": {
+        "name": "obj number 2",
+        "desc": "wow",
+        "category": "sports",
+        "price": 10,
+        "quantity": 20,
+        "img": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/onepiecetcb_1056_003.png"
+      },
+      "id": 2
+    },
+    {
+      "0": {
+        "name": "2",
+        "desc": "",
+        "category": "",
+        "price": 0,
+        "quantity": 0,
+        "img": ""
+      },
+      "1": {
+        "name": "obj number 1",
+        "desc": "obj 1",
+        "category": "obj 1",
+        "price": 987,
+        "quantity": 654,
+        "img": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/onepiecetcb_1056_014.png"
+      },
+      "2": {
+        "name": "obj number 2",
+        "desc": "wow",
+        "category": "sports",
+        "price": 10,
+        "quantity": 20,
+        "img": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/onepiecetcb_1056_003.png"
+      },
+      "id": 3
+    }
+  ],
+  "database": [
+    {
+      "0": {
+        "name": "",
+        "desc": "",
+        "category": "",
+        "price": 0,
+        "quantity": 0,
+        "img": ""
+      },
+      "1": {
+        "name": "obj number 1",
+        "desc": "obj 1",
+        "category": "obj 1",
+        "price": 987,
+        "quantity": 654,
+        "img": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/onepiecetcb_1056_014.png"
+      },
+      "2": {
+        "name": "obj number 2",
+        "desc": "wow",
+        "category": "sports",
+        "price": 10,
+        "quantity": 20,
+        "img": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/onepiecetcb_1056_003.png"
+      },
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signin": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ],
+  "gridList": [
+    {
+      "name": "round 15",
+      "desc": "think harder",
+      "category": "coding",
+      "price": "236",
+      "quantity": "1",
+      "img": "",
+      "id": 0
+    },
+    {
+      "name": "obj number 1",
+      "desc": "obj 1",
+      "category": "obj 1",
+      "price": 987,
+      "quantity": 654,
+      "img": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/onepiecetcb_1056_014.png",
+      "id": 1
+    },
+    {
+      "name": "reslt 2",
+      "desc": "wow",
+      "category": "jorts",
+      "price": "666666666",
+      "quantity": 20,
+      "img": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/onepiecetcb_1056_003.png",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "round 15",
+      "desc": "think harder",
+      "category": "coding",
+      "price": "236",
+      "quantity": "1",
+      "img": "",
+      "id": 4
+    },
+    {
+      "name": "round 15 t t t t",
+      "desc": "think harder",
+      "category": "coding",
+      "price": "32236",
+      "quantity": "1",
+      "img": "",
+      "id": 5
+    },
+    {
+      "name": "round 18 or 19",
+      "desc": "think harder",
+      "category": "coding",
+      "price": "236789",
+      "quantity": "1",
+      "img": "",
+      "id": 6
+    },
+    {
+      "name": "fjalsiefjalsifj rerender test test test test t",
+      "desc": "think harder",
+      "category": "coding",
+      "price": "236",
+      "quantity": "1",
+      "img": "",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "member@gmail.com",
+      "pw": "correctpassword",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

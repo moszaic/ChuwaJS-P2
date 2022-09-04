@@ -1,0 +1,29 @@
+{
+  "0": {
+    "name": "",
+    "desc": "",
+    "category": "",
+    "price": 0,
+    "quantity": 0,
+    "img": "",
+    "id": 0
+  },
+  "1": {
+    "name": "obj number 1",
+    "desc": "obj 1",
+    "category": "obj 1",
+    "price": 987,
+    "quantity": 654,
+    "img": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/onepiecetcb_1056_014.png",
+    "id": 1
+  },
+  "2": {
+    "name": "obj number 2",
+    "desc": "wow",
+    "category": "jorts",
+    "price": 10,
+    "quantity": 20,
+    "img": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/onepiecetcb_1056_003.png",
+    "id": 2
+  }
+}

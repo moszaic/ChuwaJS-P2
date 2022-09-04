@@ -1,0 +1,31 @@
+.field {
+  padding: 20px;
+  display: block;
+  text-align: left;
+  margin-bottom: -25px;
+}
+
+.nodisplay {
+  display: none;
+}
+
+.valid {
+  width: 90%;
+  height: 30px;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: rgb(115, 227, 190);
+}
+
+.errormsg {
+  color: rgb(232, 49, 86);
+}
+
+.invalid {
+  width: 90%;
+  height: 30px;
+  border-radius: 4px;
+  border: 1px solid;
+  /*border-color: rgb(195, 40, 71);*/
+  border-color: rgb(232, 49, 86);
+}
